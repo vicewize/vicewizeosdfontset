@@ -4,7 +4,7 @@ These are still being built as you read this but if you feel like testing go for
 
 Big Thanks go out to all the people who made WTF-OS, Margerine Exploit, and all the great packages a reality because with their hardwork none of this ould even be possible.
 
-Source: http://wtf.fpv
+Who made this all possible: http://wtf.fpv.   :-)
 
 Just copy the 4 files to the root of your SD card. Thats it! Enjoy!
 
