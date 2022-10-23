@@ -15,4 +15,4 @@ Just copy the 4 files to the root of your SD card. Thats it! Enjoy!
 www.facebook.com/efceskoltd -Cinelifters, and all things carbon fiber or printed.
 
 
-<a href="https://ibb.co/jbJSyYb"><img src="https://i.ibb.co/ZG20BrG/template.png" alt="template" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'>find duplicate values online</a><br />
+<a href="https://ibb.co/zQhDZvf"><img src="https://i.ibb.co/ckcVQnT/template.png" alt="template" border="0"></a>
