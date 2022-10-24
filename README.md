@@ -17,4 +17,4 @@ Just copy the 4 files to the root of your SD card. Thats it! Enjoy!
 www.facebook.com/efceskoltd -Cinelifters, and all things carbon fiber or printed.
 
 
-<a href="https://ibb.co/cbnPTpR"><img src="https://i.ibb.co/s5Yh3Dc/template.png" alt="template" border="0"></a>
+<a href="https://ibb.co/MGBFP8Q"><img src="https://i.ibb.co/k9mNq3v/template.png" alt="template" border="0"></a>
