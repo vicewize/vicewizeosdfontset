@@ -2,6 +2,8 @@
 
 -Update w new glyths Oct 23 4:30PM Pacific-
 
+WORK IN PROGRESS!!
+
 These are still being built as you read this but if you feel like testing go for it! This is made for Betaflight currently but I will have Ardupilot and iNav versions available after I hand make the rest of the icon glyths. The files are already pre-named with the bf_ prefix to denote that it is a font for Betaflight. You obviously need to have rooted DJI V1/V2 googles and airunit/vista with the most up to date version of msp-osd in the package manager tab of the configurator, or just click on the WTF-OS tab and click update if already installed. 
 
 Big Thanks go out to all the people who made WTF-OS, Margerine Exploit, and all the great packages a reality because with their hardwork none of this ould even be possible.
@@ -15,4 +17,4 @@ Just copy the 4 files to the root of your SD card. Thats it! Enjoy!
 www.facebook.com/efceskoltd -Cinelifters, and all things carbon fiber or printed.
 
 
-<a href="https://ibb.co/SBVFDhc"><img src="https://i.ibb.co/GRCzfK9/template.png" alt="template" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image hosting</a><br />
+<a href="https://ibb.co/xYzCbyt"><img src="https://i.ibb.co/bFNWVxM/template.png" alt="template" border="0"></a>
