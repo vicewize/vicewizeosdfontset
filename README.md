@@ -1,4 +1,4 @@
-# VICEWIZE WTF-OS MSP-OSD Colorized Custom Font Package 
+# VICEWIZE WTF-FPV - MSP-OSD - Colorized Custom Font Package 
 
 -Update w new glyths Oct 23 4:30PM Pacific-
 
