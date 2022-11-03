@@ -1,4 +1,4 @@
-# VICEWIZE HD Colorized Italic Font Set For WTF-FPV - MSP-OSD #
+# VICEWIZE HD Colorized Italic Font Set For FPV-WTF - MSP-OSD #
 
 -BETAFLIGHT VERSION-
 
