@@ -13,8 +13,10 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
-[![VICEWIZE MSP OSD FONT ICON SET TEST FLIGHT](https://i.ibb.co/g3v7wR0/PAGE1.png)] (https://www.youtube.com/watch?v=qMGfAxGPvxc "VICEWIZE MSP OSD FONT ICON SET TEST FLIGHT")
+<img src="https://i.ibb.co/zPdP6ts/template.png" alt="template" border="0"></a>
 
+
+[![Everything Is AWESOME]([(https://i.ibb.co/g3v7wR0/PAGE1.png)]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://www.youtube.com/watch?v=qMGfAxGPvxc) "VICEWIZE Italic Font Set Package V2.0 Beta for WTF-FPV - MSP-OSD package test.")
 
 
 -Matt Renshaw- (VICEWIZE / FC Frames Co - EFCESKO Limited)
