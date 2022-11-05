@@ -13,9 +13,8 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
+[![VICEWIZE MSP OSD FONT ICON SET TEST FLIGHT](https://i.ibb.co/g3v7wR0/PAGE1.png)] (https://www.youtube.com/watch?v=qMGfAxGPvxc "VICEWIZE MSP OSD FONT ICON SET TEST FLIGHT")
 
-<a href="https://ibb.co/98wRxyP"><img src="https://i.ibb.co/yfhLzg2/template.png" alt="template" border="0"></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMGfAxGPvxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 -Matt Renshaw- (VICEWIZE / FC Frames Co - EFCESKO Limited)
