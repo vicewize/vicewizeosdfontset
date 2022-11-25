@@ -13,10 +13,7 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
-<img src="https://i.ibb.co/zPdP6ts/template.png" alt="template" border="0"></a>
-
-
-[![VICEWIZE Italic Font Set Package]<img src="https://i.ibb.co/SQDw95g/betaflight-msposd-master.png" alt="betaflight-msposd-master" border="0"></a>
+<img src="https://i.ibb.co/SQDw95g/betaflight-msposd-master.png" alt="betaflight-msposd-master" border="0"></a>
 
 
 -Matt Renshaw- (VICEWIZE / MacroCarbon Ltd.)
