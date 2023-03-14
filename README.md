@@ -12,7 +12,7 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
-<img src=<img src="https://i.ibb.co/56Q49wQ/template.png" alt="template" border="0"></a> alt="betaflight-msposd-master" border="0"></a>
+<img src=<img src="https://i.ibb.co/56Q49wQ/template.png" alt="template" border="0">
 
 
 -Matt Renshaw- (VICEWIZE / MacroCarbon Ltd.)
