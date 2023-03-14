@@ -1,6 +1,7 @@
 # VICEWIZE HD Colorized Italic Font Set For FPV-WTF - MSP-OSD #
 
--BETAFLIGHT VERSION- Updated with fixes Nov 24th
+-BETAFLIGHT VERSION- Updated with fixes Tuesday Msrch 14 2023
+Updated some ugly glypths I never liked and updated a few colors to a more simplistic look. Im working on 3 alternate new fonts, as well as getting the graphical battery working correctly which was always an issue (BF issue but corrected in 4.3). Anyways enjoy.
 
 TO INSTALL:
 
@@ -11,7 +12,7 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
-<img src="https://i.ibb.co/SQDw95g/betaflight-msposd-master.png" alt="betaflight-msposd-master" border="0"></a>
+<img src="https://ibb.co/Y35QWw5" alt="betaflight-msposd-master" border="0"></a>
 
 
 -Matt Renshaw- (VICEWIZE / MacroCarbon Ltd.)
