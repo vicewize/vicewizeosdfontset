@@ -19,4 +19,4 @@ Any issues or requests just let me know and ill do my best to get back at you.
 
 www.facebook.com/macrocarbon - HQ pro cinelifter and carbon fiber frames and camera systems for ZCAM, Arri, and Red.
 
-<a href="https://youtu.be/m3WGv7iVUF8"><img src="https://i.ibb.co/BVj60D2/title.png" alt="title" border="0"></a>
+<a href="https://youtu.be/m3WGv7iVUF8"><img src="https://i.ibb.co/d06p894/title.png" alt="title" border="0"></a>
