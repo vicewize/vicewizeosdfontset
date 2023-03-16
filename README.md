@@ -20,10 +20,3 @@ Any issues or requests just let me know and ill do my best to get back at you.
 www.facebook.com/macrocarbon - HQ pro cinelifter and carbon fiber frames and camera systems for ZCAM, Arri, and Red.
 
 <a href="https://youtu.be/m3WGv7iVUF8"><img src="https://i.ibb.co/BVj60D2/title.png" alt="title" border="0"></a>
-
-https://youtu.be/m3WGv7iVUF8
-
-
-
-If wondering how I overlayed the msp-osd elements on the video below, I used Knifa's online msp-osd overlay tool (still in development). Your DVR will save a .osd file with the same name as the video file, combine those two and the 4 fonts from your sd card and it re-renders within the browser. 
-https://knifa-develop.fpv.wtf/osd-overlay
