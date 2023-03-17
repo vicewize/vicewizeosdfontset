@@ -12,11 +12,13 @@ Enjoy!
 
 Any issues or requests just let me know and ill do my best to get back at you.
 
-<img src="https://i.ibb.co/56Q49wQ/template.png" alt="template" border="0">
+<img src="https://i.ibb.co/yyLqjY2/template.png" alt="template" border="0"></a>
 
 
 -Matt Renshaw- (VICEWIZE / MacroCarbon Ltd.)
 
 www.facebook.com/macrocarbon - HQ pro cinelifter and carbon fiber frames and camera systems for ZCAM, Arri, and Red.
+
+**Video has older glyths and outdated colors etc.
 
 <a href="https://youtu.be/m3WGv7iVUF8"><img src="https://i.ibb.co/d06p894/title.png" alt="title" border="0"></a>
