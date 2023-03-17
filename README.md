@@ -5,7 +5,7 @@ Updated some ugly glypths I never liked and updated a few colors to a more simpl
 
 TO INSTALL:
 
-Unzip the package and copy all 4 of the .bin files which are already prenamed with the bf prefix: font_bf.bin, font_bf_2.bin, font_bf_hd.bin, font_bf_hd2.bin, to the root of the SD card in your DJI googles. Thats it!
+Unzip the package and copy all 4 of the .bin files which are already prenamed with the bf prefix: font_bf.bin, font_bf_2.bin, font_bf_hd.bin, font_bf_hd_2.bin, to the root of the SD card in your DJI googles. Thats it!
 
 Enjoy!
 
